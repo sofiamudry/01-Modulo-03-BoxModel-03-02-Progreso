@@ -1,0 +1,45 @@
+div {
+    background-color: #eaeaea;
+    width: 500px;
+    height: 30px;
+    border-radius: 100px;
+    padding: 3px;
+    margin: 15px;
+}
+
+p {
+    background-color: #4cb050;
+    border-radius: 100px;
+    float: left;
+}
+
+.progress-01 {
+    width: 10%;
+    height: 30px;
+    margin: 0 auto;
+
+}
+
+.progress-02 {
+    width: 25%;
+    height: 30px;
+    margin: 0 auto;
+}
+
+.progress-03 {
+    width: 50%;
+    height: 30px;
+    margin: 0 auto;
+}
+
+.progress-04 {
+    width: 75%;
+    height: 30px;
+    margin: 0 auto;
+}
+
+.progress-05 {
+    width: 90%;
+    height: 30px;
+    margin: 0 auto;
+}
